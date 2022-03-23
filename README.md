@@ -16,6 +16,8 @@ Bruteforce attack, For educational purpose only
 >> python3 -m pip install mechanize
 >> python3 fb.py or python fb2.py
 
+
+
 ## Protection Against Attacker
 * Use Strong Password(which contains standard password chars + longest as possible)
 * Use 2F Authentication.
